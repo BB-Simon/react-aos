@@ -1,7 +1,7 @@
 # React Animation On Scroll -AOS- implementation useing `react-animate-on-scroll`
 
 ## Simple React AOS
-- Fade
-- Flip
+- Fade In Out
+- Flip X Y
 - Slide In
 - Zoom In Out
